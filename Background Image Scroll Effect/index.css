@@ -1,0 +1,34 @@
+body{
+    margin: 0;
+    font-family: sans-serif;
+
+}
+.bg-image{
+    width: 100;
+    height: 100vh;
+    background: url("sample2.jpg");
+    background-position: center;
+    background-attachment: fixed;
+    
+    justify-content: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.container{
+    padding: 100px;
+}
+
+h1{
+    font-size: 50px;
+}
+p{
+    color: blue;
+}
+
+@media (max-width:500px){
+    .container{
+        padding: 10px;
+    }
+}
