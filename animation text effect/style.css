@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;500&family=Roboto+Slab:wght@200&display=swap');
+
+
+
+body{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    background-color: cadetblue;
+    font-family: 'Roboto Slab', serif;
+
+}
